@@ -1,0 +1,11 @@
+/* al hacer hover sobre el icono habilita cursos */
+.far{
+    cursor: pointer;
+}
+
+.green-icon{
+    color: #198754
+}
+.red-icon{
+    color: #dc5445
+}
